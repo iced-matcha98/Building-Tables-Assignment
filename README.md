@@ -1,6 +1,6 @@
 # Building-Tables-Assignment
 <table>
-  <caption>Sports</caption>
+<caption>Sports</caption>
   <tr>
    <td colspan="3">Top 2 Most Popular Sports by Country</td>
   </tr>
