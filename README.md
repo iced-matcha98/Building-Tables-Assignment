@@ -1,1 +1,28 @@
 # Building-Tables-Assignment
+<table>
+  <caption>Sports</caption>
+  <tr>
+   <td colspan="3">Top 2 Most Popular Sports by Country</td>
+  </tr>
+  <tr>
+    <th>USA</th>
+    <th>Japan</th>
+    <th>Russia</th>
+  </tr>
+  <tr>
+    <td>football</td>
+    <td> baseball</td>
+    <td>soccer</td>
+  </tr>
+  <tr>
+    <td> basketball</td>
+    <td>soccer</td>
+    <td>hockey</td>
+  </tr>
+</table>
+
+<ul>
+  <li>Soccer is popular in Japan and in Russia.</li>
+  <li>Surprisingly, as of 2026, soccer is more popular than hockey in Russia. </li>
+  <li>Football is most popular in the US, and it is also a unique American sport that is not played in most countries. </li>
+</ul>
